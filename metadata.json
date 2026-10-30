@@ -1,0 +1,15 @@
+{
+  "name": "Pepe Ivan",
+  "symbol": "PEPEIVAN",
+  "description": "Pepe Ivan — experimental Solana Devnet memecoin. Test tokens only; ticker and supply are provisional.",
+  "image": "https://raw.githubusercontent.com/russtolioss/pepe-ivan-devnet-assets/main/avatar-primary.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/russtolioss/pepe-ivan-devnet-assets/main/avatar-primary.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
